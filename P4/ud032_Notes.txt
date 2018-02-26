@@ -1,0 +1,14 @@
+DATASET:
+The dataset was downloaded from Mapzen: https://mapzen.com/data/metro-extracts/metro/perth_australia/
+
+This is a metro extract of Perth, WA, Australia. Size of 254MB with the remaining sample file to be ~50MB.
+
+I've chosen Perth as I have been living there briefly when I was a student, and have some fond memories of it.
+
+
+RESOURCES:
+- code from the course Case Sudy
+- blog posts from discussions.udacity.com
+- for the conversion from XLM to CSV and CSV to SQL I used the following GitHub as a reference: https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+
+
